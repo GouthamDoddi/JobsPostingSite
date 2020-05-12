@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45614937-c823-4067-87d6-0be71bc06e14" name="Default Changelist" comment="" />
+    <list default="true" id="45614937-c823-4067-87d6-0be71bc06e14" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/User/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/tests/test_user_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_in_telugu/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_in_telugu/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_in_telugu/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_in_telugu/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,9 +33,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RunManager" selected="Python tests.Unittests for test_user_model.UserModelTests.test_User_creation">
     <configuration name="Unittests for test_user_model.UserModelTests.test_User_creation" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -79,10 +88,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="218" y="187" key="FileChooserDialogImpl" timestamp="1585808627959">
+    <state x="218" y="187" key="FileChooserDialogImpl" timestamp="1589196362423">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="218" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1585808627959" />
+    <state x="218" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1589196362423" />
     <state width="808" height="201" key="GridCell.Tab.0.bottom" timestamp="1588311055121">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -119,13 +128,13 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="0" y="167" key="IDE.errors.dialog/0.0.1536.864@0.0.1536.864" timestamp="1588340939371" />
-    <state x="0" y="75" key="SettingsEditor" timestamp="1588311934404">
+    <state x="0" y="75" key="SettingsEditor" timestamp="1589255108414">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="0" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1588311934404" />
-    <state x="114" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1588470401173">
+    <state x="0" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1589255108414" />
+    <state x="114" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1589191905403">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="114" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1588470401173" />
+    <state x="114" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1589191905403" />
   </component>
 </project>

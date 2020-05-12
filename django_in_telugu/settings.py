@@ -40,6 +40,9 @@ INSTALLED_APPS = [
     'Job.apps.JobConfig',
     'Post.apps.PostConfig',
     'core',
+    'rest_framework',
+    'rest_framework.authtoken',
+    'User',
 ]
 
 MIDDLEWARE = [
